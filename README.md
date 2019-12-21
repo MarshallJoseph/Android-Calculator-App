@@ -8,7 +8,7 @@ To use formula entry, simply start with an open parenthesis.
 The calculator will automatically change into formula entry. 
 Make sure to add a closed parenthesis! 
 
-<img src="calculator-portrait-view.png" width="100", height="100">
+<img src="calculator-portrait-view.png" width="100" height="100">
 
 ![Portrait View](calculator-portrait-view.png)
 ![Landscape View](calculator-landscape-view.png)
