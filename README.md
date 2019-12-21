@@ -9,7 +9,7 @@ The calculator will automatically change into formula entry.
 Make sure to add a closed parenthesis! 
 
 Portrait View 
-![Portait View](calculator-portrait-view.png)
+!(calculator-portrait-view.png)
 
 Landscape View
-![Landscape View](calculator-landscape-view.png)
+!(calculator-landscape-view.png)
