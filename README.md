@@ -9,5 +9,4 @@ The calculator will automatically change into formula entry.
 Make sure to add a closed parenthesis! 
 
 <img src="calculator-portrait-view.png" width="325px" height="521px">
-
-![Landscape View](calculator-landscape-view.png)
+<img src="calculator-landscape-view.png" width="546px" height="306px">
